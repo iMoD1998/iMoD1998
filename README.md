@@ -1,7 +1,7 @@
 [![Header](/images/banner.jpg?raw=true)][website]
 
 # Hi there 👋
-I'm Adam, a revese engineer/software developer who loves tinkering with things.
+I'm Adam, a reverse engineer/software developer.
 
 ## :globe_with_meridians: Socials/Links
 [My Twitter][twitter]
